@@ -1,0 +1,1 @@
+const square=(a)=> Math.pow(a,2);// Write the "square"-function here
