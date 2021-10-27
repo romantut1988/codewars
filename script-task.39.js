@@ -1,3 +1,4 @@
-function SafeInteger(n) {
-    return Number.isSafeInteger(n);
+function SafeInteger(b) {
+    return Number.isSafeInteger(b);
+
 }
